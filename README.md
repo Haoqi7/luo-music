@@ -28,7 +28,7 @@
 [9]: https://img.shields.io/github/license/lyswhut/lx-music-desktop
 [10]: https://github.com/lyswhut/lx-music-desktop/blob/master/LICENSE -->
 
-<h2 align="center">洛雪音乐助手桌面版</h2>
+<h2 align="center">洛雪音乐助手</h2>
 
 ### 说明
 
